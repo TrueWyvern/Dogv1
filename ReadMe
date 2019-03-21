@@ -1,1 +1,9 @@
-
+create dog objects
+   ask user to input aggression and hunger for both dogs 
+   
+check values
+    un angry bark or friendly bark 
+    
+    
+compare values between dogs 
+   display wether friendly encounter or not
