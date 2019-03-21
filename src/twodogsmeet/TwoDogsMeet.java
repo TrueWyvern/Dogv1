@@ -1,7 +1,7 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+ * determine is encounter is friendly
+ * user input values into dog object and program determines if encounter is friendly or not
+ * Aisik
  */
 
 package twodogsmeet;
